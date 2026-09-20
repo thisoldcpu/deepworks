@@ -3,3 +3,9 @@
 <img width="1672" height="941" alt="deepworks_the_shunt" src="https://github.com/user-attachments/assets/bfa766f4-3684-4ddd-97b8-4219d9d7b03c" />
 
 <img width="1672" height="941" alt="deepworks_sector_112" src="https://github.com/user-attachments/assets/7100dd69-7cd0-48ac-adf1-2b4ae76455f5" />
+
+<img width="1672" height="941" alt="deepworks_sector_311 " src="https://github.com/user-attachments/assets/b28b85e3-4807-488a-947f-6cedf6503a96" />
+
+<img width="1672" height="941" alt="deepworks_sector_808" src="https://github.com/user-attachments/assets/f4218719-0104-40a7-bb1a-eeb874550e13" />
+
+<img width="1672" height="941" alt="deepworks_dynamic_tunnel_collapse" src="https://github.com/user-attachments/assets/104a8dc3-6158-4b7f-b8ad-47e110ad3021" />
