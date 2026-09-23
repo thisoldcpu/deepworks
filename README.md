@@ -14,6 +14,6 @@ A subterranean industrial sandbox where automation runs the mine, players pertur
 
 <img width="1672" height="941" alt="deepworks_dynamic_tunnel_collapse" src="https://github.com/user-attachments/assets/104a8dc3-6158-4b7f-b8ad-47e110ad3021" />
 
-<img width="1672" height="941" alt="100e24d1-dbbd-49f4-8a74-7ad2c1c1563e" src="https://github.com/user-attachments/assets/c7fd2154-27f1-4b3f-bd64-b17188b161d8" />
+<img width="1672" height="941" alt="100e24d1-dbbd-49f4-8a74-7ad2c1c1563e" src="https://github.com/user-attachments/assets/fc61f6b4-03f4-46f5-a286-6015f0917165" />
 
-<img width="1672" height="941" alt="91452e8d-8238-466d-9712-69e00b50b37a" src="https://github.com/user-attachments/assets/57a4cce7-e983-4d62-a5e3-342f3809b234" />
+<img width="1672" height="941" alt="91452e8d-8238-466d-9712-69e00b50b37a" src="https://github.com/user-attachments/assets/8ea1f397-d3c3-48c9-b913-9bd8f3bd7b6e" />
